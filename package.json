@@ -6,7 +6,7 @@
 	"readme": "README.md",
 	"repository": {
 		"type": "git",
-		"url": "http://kangbingkui.git"
+		"url": "https://github.com/BingKui/GruntStream.git"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.5",
