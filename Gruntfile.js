@@ -37,7 +37,7 @@
 				dest: 'dest/<%= pkg.name %>.css'
 			},
 			jsbuild: {
-				src: 'src/jss/*.css',
+				src: 'src/js/*.js',
 				dest: 'dest/<%= pkg.name %>.js'
 			}
 		},
